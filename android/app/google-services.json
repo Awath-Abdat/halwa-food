@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "415879354866",
+    "project_id": "haluwa-food-app",
+    "storage_bucket": "haluwa-food-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415879354866:android:64fe7d61345a21637eb36b",
+        "android_client_info": {
+          "package_name": "com.haluwa.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415879354866-cttg28jctacv3018k3q9ffk6u0k4sr0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALlXd6HSTkw0I7jzT_0Zd7KE0nWpHpJAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415879354866-cttg28jctacv3018k3q9ffk6u0k4sr0a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "415879354866-3q39gk1thipofrmi6906gv5kmngu9967.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.haluwa.usersapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
